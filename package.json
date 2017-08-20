@@ -1,0 +1,17 @@
+{
+  "name": "sanae-mock",
+  "version": "0.0.1",
+  "description": "Simple another api server mock.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "power-assert": "^1.4.4",
+    "typescript": "^2.4.2"
+  },
+  "dependencies": {}
+}
